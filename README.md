@@ -6,7 +6,7 @@ to run the applications get a google calendar clientID and API key from google c
 
 ##Kindly note on set test users will have access to the google authentication. https://console.cloud.google.com/apis/credentials/consent
 
-create an env file containing
+create an .env file containing
 sample
 REACT_APP_CLIENT_ID=102434937351-glidv0rk3lbbi7d5rt0g1h334sebr9nn.apps.googleusercontent.com
 REACT_APP_API_KEY=AIzaSyCBVyiC40ThlQZkIG4raGfTpAbiSbB7U8E
