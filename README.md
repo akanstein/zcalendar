@@ -16,6 +16,10 @@ with corresponding value
 
 In the project directory, you can run:
 
+### yarn install
+
+to install dependencies
+
 ### `yarn start`
 
 Runs the app in the development mode.\
